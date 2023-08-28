@@ -1,0 +1,14 @@
+How to run this Project
+
+
+Create database “blood”.
+Import the database file( Database will be avail in the package)
+Link for the project: http://localhost/bloodb/index.php
+
+
+Login Details
+For User : Username :vinny  Password : vinny
+For Admin : User Name : admin Password : test
+
+to calculate the distance to the nearest blood bank
+input your current position as at when you are using this application

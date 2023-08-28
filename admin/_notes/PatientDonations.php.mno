@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_PatientDonationsrecds" value="name:ID;datatype:int,name:username;datatype:string,name:password;datatype:string,name:age;datatype:int,name:homeaddress;datatype:blob,name:mobileno;datatype:int,name:gender;datatype:blob,name:emailaddress;datatype:string,name:bloodgroup;datatype:string,name:quantity;datatype:int,name:date;datatype:date,name:BBname;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bloodstock" value="name:location;datatype:string,name:BloodQuantity;datatype:int,name:BBname;datatype:string" />
+</info>
